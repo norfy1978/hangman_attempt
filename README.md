@@ -1,6 +1,5 @@
 # hangman_attempt. Trying to create a hangman game
 
-# notes here
 word = list("learn")
 hidden = []
 for character in word:
